@@ -3,7 +3,7 @@ import React from 'react';
 
 const DutationExer = () => {
     return (
-        <div className='bg-slate-300 rounded-box ml-20 mr-20'>
+        <div className='bg-[#6462F0] bg-gradient-to-l from-[#9190E9] rounded-box ml-20 mr-20'>
             <div className='flex flex-col lg:flex-row justify-evenly p-12 lg:pt-16'>
                 <div className='flex mb-6'>
                     <div>

@@ -18,8 +18,9 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main className='max-w-[1440px] mx-auto bg-white'>
+      <main className='max-w-[1440px] mx-auto bg-[#E5E5E5] bg-gradient-to-l from-[#ddb4f5]'>
         <Header></Header>
+        {/* <Banner></Banner> */}
         <Banner></Banner>
         <HealthySide></HealthySide>
         {/* <Healthy></Healthy> */}
